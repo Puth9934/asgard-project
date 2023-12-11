@@ -1,0 +1,19 @@
+{
+    "name": "StaffMgt",
+    "alias": "staffmgt",
+    "version": "1.0.0",
+	"description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\StaffMgt\\Providers\\StaffMgtServiceProvider",
+        "Modules\\StaffMgt\\Providers\\EventServiceProvider",
+        "Modules\\StaffMgt\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "widgets":[
+        "Modules\\StaffMgt\\Widgets\\StaffCountWidget"
+    ]
+}

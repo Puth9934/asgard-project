@@ -1,0 +1,16 @@
+{
+    "name": "Frontend",
+    "alias": "frontend",
+    "version": "1.0.0",
+	"description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\Frontend\\Providers\\FrontendServiceProvider",
+        "Modules\\Frontend\\Providers\\EventServiceProvider",
+        "Modules\\Frontend\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

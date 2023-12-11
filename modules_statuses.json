@@ -1,0 +1,19 @@
+{
+    "Core": true,
+    "Dashboard": true,
+    "Media": true,
+    "Menu": true,
+    "Page": true,
+    "Setting": true,
+    "Tag": true,
+    "Translation": true,
+    "User": true,
+    "Workshop": true,
+    "Student": true,
+    "Teacher": true,
+    "TeacherMgt": true,
+    "StaffMgt": true,
+    "Dashboards": true,
+    "Blog": false,
+    "Frontend": true
+}

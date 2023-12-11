@@ -1,0 +1,19 @@
+{
+    "name": "TeacherMgt",
+    "alias": "teachermgt",
+    "version": "1.0.0",
+	"description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [
+        "Modules\\TeacherMgt\\Providers\\TeacherMgtServiceProvider",
+        "Modules\\TeacherMgt\\Providers\\EventServiceProvider",
+        "Modules\\TeacherMgt\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "widgets":[
+        "Modules\\TeacherMgt\\Widgets\\TeacherCountWidget"
+    ]
+}
